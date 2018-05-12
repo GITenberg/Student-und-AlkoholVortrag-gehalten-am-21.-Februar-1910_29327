@@ -1,0 +1,33 @@
+_repo: Student-und-AlkoholVortrag-gehalten-am-21.-Februar-1910_29327
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loewenfeld, Leopold
+    birthdate: 1847
+    deathdate: 1924
+    gutenberg_agent_id: '33846'
+    url: http://www.gutenberg.org/2009/agents/33846
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Sociology
+gutenberg_issued: '2009-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29327'
+  lccn: '15026922'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Students -- Germany'
+- !lcc 'HV'
+- !lcsh 'Drinking of alcoholic beverages -- Germany'
+title: 'Student und Alkohol
+
+  Vortrag gehalten am 21. Februar 1910'
+url: http://www.gutenberg.org/ebooks/29327
